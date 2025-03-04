@@ -10,7 +10,6 @@ A simple and secure **Password Manager** built with **Flask** and **HTML/CSS/Jav
 ✅ **Store & Retrieve Passwords** – Securely save credentials for different accounts.  
 ✅ **Admin Authentication** – Protect sensitive actions (edit/delete) with authentication.  
 ✅ **Copy to Clipboard** – Easily copy usernames & passwords with a single click.  
-✅ **Hacker-Themed UI** – Dark mode with green neon aesthetics.  
 ✅ **Responsive Design** – Works on both desktop & mobile.  
 
 ---
